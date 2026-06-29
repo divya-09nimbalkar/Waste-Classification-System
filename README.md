@@ -6,7 +6,7 @@ A deep learning/machine learning pipeline designed to automate the classificatio
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 As shown in the workspace layout (`image_e605c6.png`), the project is organized as follows:
 
@@ -35,7 +35,7 @@ WASTE_CLASSIFICATION_SYSTEM/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Prerequisites
 
@@ -59,7 +59,7 @@ Place your dataset inside the `data/` folder:
 
 ---
 
-## 💻 Usage
+##  Usage
 
 ### Data Exploration & Prototyping
 
@@ -101,7 +101,7 @@ python src/main.py
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 To ensure the model architectures and core components function properly without breaking, run the test suites via `pytest`:
 
