@@ -8,7 +8,7 @@ A deep learning/machine learning pipeline designed to automate the classificatio
 
 ##  Project Structure
 
-As shown in the workspace layout (`image_e605c6.png`), the project is organized as follows:
+As shown in the workspace layout , the project is organized as follows:
 
 ```text
 WASTE_CLASSIFICATION_SYSTEM/
