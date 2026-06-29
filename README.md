@@ -112,7 +112,7 @@ pytest tests/
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 * **Python** - Core language
 * *(Add your primary frameworks here, e.g., PyTorch / TensorFlow / Scikit-Learn)*
